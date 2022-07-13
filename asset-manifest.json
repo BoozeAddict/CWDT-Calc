@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cwdt-calc/static/css/main.3a7772aa.css",
+    "main.js": "/cwdt-calc/static/js/main.5017aa5d.js",
+    "index.html": "/cwdt-calc/index.html",
+    "main.3a7772aa.css.map": "/cwdt-calc/static/css/main.3a7772aa.css.map",
+    "main.5017aa5d.js.map": "/cwdt-calc/static/js/main.5017aa5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7772aa.css",
+    "static/js/main.5017aa5d.js"
+  ]
+}
