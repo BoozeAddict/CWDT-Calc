@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CWDT Calculator",
+  "name": "A little calculator to see if your loop is going to work.",
   "icons": [
     {
       "src": "favicon.ico",
