@@ -1,0 +1,64 @@
+@import "bootstrap/scss/bootstrap";
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@media (max-width: 700px) {
+  .stats-label {
+    text-align: center !important;
+  }
+}
+
+.title {
+  margin-bottom: $spacer;
+}
+
+.title h2 {
+  text-align: center;
+}
+
+.result {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  text-align: center;
+  border: 3px solid black;
+}
+
+.result:first-of-type {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.result:nth-of-type(2) {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.result:first-child {
+  vertical-align: middle;
+}
+
+.result.true {
+  background-color: green;
+}
+
+.result.false {
+  background-color: red;
+}
+
+.calculations {
+  background-color: #2f3235;
+  border: black solid 1px;
+  border-radius: 5px;
+  padding: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
