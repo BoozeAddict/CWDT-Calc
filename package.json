@@ -1,7 +1,7 @@
 {
   "name": "cwdt-calc",
   "version": "0.1.0",
-  "homepage": "https://boozeaddict.github.io/cwdt-calc",
+  "homepage": "https://boozeaddict.github.io/CWDT-Calc",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
